@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Celebrate with us on 1st October 2022!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.swissotel.com/hotels/singapore-stamford/dining/skai/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Swissotel The Stamford
         </a>
       </header>
     </div>
